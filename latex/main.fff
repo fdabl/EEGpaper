@@ -1,0 +1,9 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[!ht]
+    \centering
+    \includegraphics[width=1.1\textwidth]{./comparison.png}
+    \caption{Figure 1.}
+\end{figure*}
+\efloatseparator
+ 

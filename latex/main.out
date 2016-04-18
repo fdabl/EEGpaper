@@ -1,0 +1,36 @@
+\BOOKMARK [1][-]{section*.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section*.2}{A primer on EEG data analysis}{}% 2
+\BOOKMARK [1][-]{section*.4}{Overview of this paper}{}% 3
+\BOOKMARK [1][-]{section*.5}{Preliminaries and pipeline}{}% 4
+\BOOKMARK [2][-]{section*.6}{Signal representation}{section*.5}% 5
+\BOOKMARK [3][-]{section*.8}{Time domain}{section*.6}% 6
+\BOOKMARK [3][-]{section*.9}{Frequency domain}{section*.6}% 7
+\BOOKMARK [3][-]{section*.10}{Time-Frequency domain}{section*.6}% 8
+\BOOKMARK [2][-]{section*.11}{Pre-processing}{section*.5}% 9
+\BOOKMARK [3][-]{section*.12}{Re-referencingThis section is heavily influenced by [][p. 150-164]luck2014introduction.}{section*.11}% 10
+\BOOKMARK [3][-]{section*.13}{\(Temporal\) Filtering}{section*.11}% 11
+\BOOKMARK [3][-]{section*.14}{Epoching}{section*.11}% 12
+\BOOKMARK [3][-]{section*.15}{Baseline correction}{section*.11}% 13
+\BOOKMARK [3][-]{section*.16}{Artefact rejection and detection}{section*.11}% 14
+\BOOKMARK [3][-]{section*.17}{Baseline normalization}{section*.11}% 15
+\BOOKMARK [1][-]{section*.18}{Statistical analysis}{}% 16
+\BOOKMARK [2][-]{section*.19}{Standard ERP analysis}{section*.18}% 17
+\BOOKMARK [2][-]{section*.20}{Massive univariate approach}{section*.18}% 18
+\BOOKMARK [2][-]{section*.21}{Regression-based estimation and testing}{section*.18}% 19
+\BOOKMARK [2][-]{section*.22}{Non-linear multilevel models}{section*.18}% 20
+\BOOKMARK [2][-]{section*.23}{Machine learning in BCI}{section*.18}% 21
+\BOOKMARK [2][-]{section*.24}{Model-based cognitive neuroscience}{section*.18}% 22
+\BOOKMARK [2][-]{section*.25}{Denoising of single-trials}{section*.18}% 23
+\BOOKMARK [1][-]{section*.26}{Conclusion}{}% 24
+\BOOKMARK [1][-]{section*.27}{Technical Appendix}{}% 25
+\BOOKMARK [2][-]{section*.28}{Convolution}{section*.27}% 26
+\BOOKMARK [2][-]{section*.29}{Fourier transform}{section*.27}% 27
+\BOOKMARK [2][-]{section*.30}{Information theory}{section*.27}% 28
+\BOOKMARK [2][-]{section*.31}{Principal Component Analysis}{section*.27}% 29
+\BOOKMARK [2][-]{section*.32}{Independent Component Analysis}{section*.27}% 30
+\BOOKMARK [2][-]{section*.33}{Linear Discriminant Analysis}{section*.27}% 31
+\BOOKMARK [2][-]{section*.34}{Regularization}{section*.27}% 32
+\BOOKMARK [2][-]{section*.35}{Linear regression}{section*.27}% 33
+\BOOKMARK [2][-]{section*.36}{Linear mixed effects models}{section*.27}% 34
+\BOOKMARK [2][-]{section*.37}{Splines and General additive models}{section*.27}% 35
+\BOOKMARK [1][-]{section*.38}{Reader's appendix}{}% 36
